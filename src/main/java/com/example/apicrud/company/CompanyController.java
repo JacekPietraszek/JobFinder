@@ -1,4 +1,4 @@
-package com.example.apicrud;
+package com.example.apicrud.company;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

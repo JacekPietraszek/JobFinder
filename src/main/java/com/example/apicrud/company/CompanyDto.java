@@ -1,4 +1,4 @@
-package com.example.apicrud;
+package com.example.apicrud.company;
 
 public class CompanyDto {
     private Long id;

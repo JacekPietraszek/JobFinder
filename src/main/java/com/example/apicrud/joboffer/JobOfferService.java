@@ -1,4 +1,4 @@
-package com.example.apicrud;
+package com.example.apicrud.joboffer;
 
 import org.springframework.stereotype.Service;
 

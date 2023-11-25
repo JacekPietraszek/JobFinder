@@ -1,5 +1,6 @@
-package com.example.apicrud;
+package com.example.apicrud.company;
 
+import com.example.apicrud.joboffer.JobOffer;
 import org.springframework.stereotype.Service;
 
 @Service

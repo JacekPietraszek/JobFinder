@@ -1,5 +1,6 @@
-package com.example.apicrud;
+package com.example.apicrud.joboffer;
 
+import com.example.apicrud.company.Company;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.persistence.*;
