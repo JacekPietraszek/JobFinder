@@ -1,6 +1,6 @@
 package com.example.apicrud.company;
 
-public class CompanyDto {
+class CompanyDto {
     private Long id;
     private String name;
     private String description;
